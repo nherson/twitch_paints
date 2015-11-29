@@ -3,3 +3,4 @@
 * Config file supporting more options
 * Command line args
 * Proper logging, even if just to stdout
+* Add PONG IRC callback
