@@ -1,0 +1,2 @@
+username = "$YOUR_TWITCH_USERNAME"
+apitoken = "oauth:$REALLY_LONG_OAUTH_STRING"

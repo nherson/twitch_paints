@@ -1,0 +1,5 @@
+* Better error messages returned from parsing system
+* Dynamic file sizes
+* Config file supporting more options
+* Command line args
+* Proper logging, even if just to stdout
